@@ -60,6 +60,10 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [create-vite/template-qwik](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-qwik) - Vite's pure JavaScript or TypeScript starter for Qwik. Run: `npx create-vite some-dir --template qwik` or `npx create-vite some-dir --template qwik-ts`.
 - [qwik-starter-empty-app-javascript](https://github.com/milahu/qwik-starter-empty-app-javascript) - Qwik starter based on the create-qwik "empty app" starter.
 
+## Tools
+
+- [eslint-plugin-qwik](https://npm.im/eslint-plugin-qwik) - ESLint [rules](https://qwik.dev/docs/advanced/eslint) for Qwik.
+
 ## Videos
 
 - [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
