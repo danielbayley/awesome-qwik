@@ -63,6 +63,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 ## Tools
 
 - [eslint-plugin-qwik](https://npm.im/eslint-plugin-qwik) - ESLint [rules](https://qwik.dev/docs/advanced/eslint) for Qwik.
+- [Qwik Build](https://github.com/danielbayley/qwik-build#readme) - GitHub [Action](https://github.com/marketplace/actions/qwik-build) to build your Qwik City static site for GitHub [Pages](https://pages.github.com).
 
 ## Videos
 
